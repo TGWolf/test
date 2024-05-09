@@ -11,7 +11,7 @@ This document outlines security procedures and general policies for this project
 We take **ALL** security related bugs and issues very seriously.
 
 If you think you have identified a security related issue, please
-[report it immediately](mailto:disclose@wolfsoftware.com) and include
+[report it immediately](mailto:disclose@tgwolf.com) and include
 the word "SECURITY" in the subject line. If you are not sure, don’t worry.
 Better safe than sorry – just send an email.
 

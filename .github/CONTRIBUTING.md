@@ -1,7 +1,7 @@
 # Contributing
 
 Please refer to the
-[contributing](https://github.com/WolfSoftware/contributing)
+[contributing](https://github.com/TGWolf/contributing)
 documentation.
 
 ## Important
